@@ -7,3 +7,4 @@ tags: ["Hugo"]
 types: ["one"]
 ---
 
+{{< baseurl >}}
